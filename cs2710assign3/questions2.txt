@@ -1,0 +1,40 @@
+
+T
+What is the parameter passed in the main method?
+String[] args
+String args[]
+
+
+S
+What kind of relationship does an inheritance class have?
++ IS A
+- HAS A
+- USES
+- No Relation
+S
+If Circle extends Shape, how many supertypes does this object have?
+- 1
++ 2
+- 3
+- 4
+
+
+N
+What is the answer to (2+2)/4?
+1.0
+
+
+C
+If a car has tires or is a particular make, name a possible relationship that is present?
++ Aggregation
++ Inheritance
+- Interface
+- Dependency
+
+
+C
+Consider the logic statement !((p && !p) && !q), choose a condition in which the statement true?
++ p is true, q is true
++ p is true, q is false
++ p is false, q is true
++ p is false, q is false
